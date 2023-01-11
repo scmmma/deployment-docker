@@ -8,4 +8,4 @@ spec:
  - targetPort: 80
    port: 80
  selector:
-   app: argo-web  
+   app: argo-web

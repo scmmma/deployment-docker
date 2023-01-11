@@ -11,7 +11,7 @@ spec:
   metadata:
     labels:
      app: argo-web
-  spec: 
+  spec:
    containers:
    - name: c1
      image: gauravkumar9130/testfb:v21
